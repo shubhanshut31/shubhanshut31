@@ -1,12 +1,12 @@
 # Hi there, I'm Shubhanshu Tiwari 👋  
 
-🚀 **Web Developer** | 💻 **Full Stack Developer** | 🌟 **Aspiring AI & Data Analyst**  
+🚀 **Web Developer** | 💻 **Full Stack Developer** | 🌟 **Aspiring AI & Machine Learning**  
 
 ---
 
 ## 🌟 About Me  
-- 🛠️ Passionate about building intuitive and scalable mobile applications using **Web Development**, **Java**, and **React js**.  
-- 🔍 Exploring **AI** and **Data Analysis** for insightful and impactful projects.  
+- 🛠️ Passionate about building intuitive and scalable mobile applications using **Web Development**, **Java**, and **React js** and **Django**.  
+- 🔍 Exploring **AI** and **Machine Learning** for insightful and impactful projects.  
 - 🌱 Currently enhancing my skills in **Spring Boot**, **React js**, and **Machine Learning**.  
 
 ---
