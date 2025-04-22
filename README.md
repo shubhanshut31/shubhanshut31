@@ -31,6 +31,6 @@
 
 
 ## 📬 Let's Connect  
-- **LinkedIn:** [linkedin.com/in/vansh07](https://linkedin.com/in/shubhanshut31)  
+- **LinkedIn:** [linkedin.com/in/shubhanshut31](https://linkedin.com/in/shubhanshut31)  
 
 💡 _"Building apps for today, innovating for tomorrow."_  
