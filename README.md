@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 About Me  
-- 🛠️ Passionate about building intuitive and scalable mobile applications using **Web Development**, **Java**, and **React js** and **Django**.  
+- 🛠️ Passionate about building intuitive and scalable Web applications using **Web Development**, **Java**, and **React js** and **Django**.  
 - 🔍 Exploring **AI** and **Machine Learning** for insightful and impactful projects.  
 - 🌱 Currently enhancing my skills in **Spring Boot**, **React js**, and **Machine Learning**.  
 
