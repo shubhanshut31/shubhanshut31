@@ -7,7 +7,7 @@
 ## 🌟 About Me  
 - 🛠️ Passionate about building intuitive and scalable mobile applications using **Web Development**, **Java**, and **React js**.  
 - 🔍 Exploring **AI** and **Data Analysis** for insightful and impactful projects.  
-- 🌱 Currently enhancing my skills in **Spring Boot**, **React Native**, and **Machine Learning**.  
+- 🌱 Currently enhancing my skills in **Spring Boot**, **React js**, and **Machine Learning**.  
 
 ---
 
@@ -19,7 +19,7 @@
 - React, Django, Mongoose DB, SQL  
 
 **Backend:**  
-- REST APIs, Spring Boot, Dependency Injection (Hilt)  
+- Spring Boot, Dependency Injection (Hilt)  
 
 **Other Tools:**  
 - Version Control (Git), Figma / UI-UX Design, Data Structures & Algorithms
