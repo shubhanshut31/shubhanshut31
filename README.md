@@ -1,4 +1,4 @@
-# Hi there, I'm Shubhanshu Tiwari 👋  
+# Hi there, I'm Shubhanshu Tiwari 👋   
 
 🚀 **Web Developer** | 💻 **Full Stack Developer** | 🌟 **Aspiring AI & Machine Learning**  
 
@@ -19,7 +19,7 @@
 - React, Django, Mongoose DB, SQL  
 
 **Backend:**  
-- Spring Boot, Dependency Injection (Hilt)  
+- Spring Boot, Dependency Injection (Hilt)   
 
 **Other Tools:**  
 - Version Control (Git), Figma / UI-UX Design, Data Structures & Algorithms
