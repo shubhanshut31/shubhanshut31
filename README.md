@@ -8,19 +8,20 @@
 ## 🌟 About Me  
 - 🛠️ Passionate about building intuitive and scalable Web applications using **Web Development**, **Java**, and **React js** and **Django**.  
 - 🔍 Exploring **AI** and **Machine Learning** for insightful and impactful projects.  
-- 🌱 Currently enhancing my skills in **Spring Boot**, **React js**, and **Machine Learning**.  
+- 🌱 Currently enhancing my skills in  **React js**, **Node js** and **Machine Learning**.  
 
 ---
 
+
 ## 🔧 Technologies & Tools  
 **Languages:**  
-- Java, HTML, CSS, JavaScript, SQL  
+- Java, HTML, CSS, JavaScript 
 
 **Web Development:**  
-- React, Django, Mongoose DB, SQL  
+- React, Django, Mongoose DB, SQL 
 
 **Backend:**  
-- Spring Boot, Dependency Injection (Hilt)   
+- Node js, Django, Dependency Injection (Hilt)   
 
 **Other Tools:**  
 - Version Control (Git), Figma / UI-UX Design, Data Structures & Algorithms
@@ -35,3 +36,10 @@
 - **LinkedIn:** [linkedin.com/in/shubhanshut31](https://linkedin.com/in/shubhanshut31)  
 
 💡 _"Building apps for today, innovating for tomorrow."_  
+
+## 🚀 Features
+- 🔐 Secure authentication with JWT
+- 📝 Create, edit, and delete notes
+- 🎤 Voice-to-text transcription
+- 🔍 Real-time search & filtering
+- 📱 Responsive UI with TailwindCSS
