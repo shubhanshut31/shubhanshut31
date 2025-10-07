@@ -1,3 +1,14 @@
+<br>
+<p align="center">
+  <img src="https://media.giphy.com/media/WKdWA04KRn58A/giphy.gif">
+</p>
+<br>
+<div align="center">
+
+<p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://shubhanshuportfolio.vercel.app/ghpvc/?username=shubhanshut31&color=blueviolet" /></p> 
+</div>
+
 # Hi there, I'm Shubhanshu Tiwari 👋   
 <img width="300" height="180" alt="image" src="https://github.com/user-attachments/assets/fa83dba5-e8b5-4408-9750-903197cb5397" />
 
