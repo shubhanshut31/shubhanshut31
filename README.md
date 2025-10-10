@@ -27,44 +27,74 @@
 </div>
 <hr>
 <br>
-# Hi there, I'm Shubhanshu Tiwari 👋   
-<img  width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/fa83dba5-e8b5-4408-9750-903197cb5397"  />
+# Hi there, I'm Shubhanshu Tiwari 👋
+### Full-Stack Developer | React | Next.js | Node.js | MongoDB
 
-🚀 **Web Developer** | 💻 **Full Stack Developer** | 🌟 **Aspiring AI & Machine Learning**  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhanshut31&theme=dark&hide_border=true)](https://github.com/shubhanshut31)
 
----
-
-## 🌟 About Me  
-- 🛠️ Passionate about building intuitive and scalable Web applications using **Web Development**, **Java**, and **React js** and **Django**.  
-- 🔍 Exploring **AI** and **Machine Learning** for insightful and impactful projects.  
-- 🌱 Currently enhancing my skills in  **React js**, **Node js** and **Machine Learning**.  
+I am a passionate **Full-Stack Developer** with experience building scalable web applications using modern technologies. I enjoy solving real-world problems with clean and efficient code.  
 
 ---
 
+## 🚀 About Me
+- 🌱 Currently learning **Advanced Next.js & TypeScript**
+- 💻 Experienced in **Frontend & Backend Development**
+- ⚡ I love building **responsive, interactive, and secure web apps**
+- 🌐 Open to collaborations and freelance projects  
 
-## 🔧 Technologies & Tools  
-**Languages:**  
-- Java, HTML, CSS, JavaScript 
+---
 
-**Web Development:**  
-- React, Django, Mongoose DB, SQL 
+## 🛠 Tech Stack
+
+**Frontend:**  
+React, Next.js, Tailwind CSS, ShadCN/UI, Redux, JavaScript, TypeScript  
 
 **Backend:**  
-- Node js, Django, Dependency Injection (Hilt)   
+Node.js, Express.js, MongoDB, JWT Authentication, REST APIs  
 
-**Other Tools:**  
-- Version Control (Git), Figma / UI-UX Design, Data Structures & Algorithms
+**Tools & Platforms:**  
+Git, GitHub, Postman, Vercel, Netlify, Heroku, VS Code  
 
-## 📈 GitHub Stats  
-![Shubhanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhanshut31&show_icons=true&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhanshut31&layout=compact&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanshut31&layout=compact&theme=radical)
+---
 
+## 📊 GitHub Stats
 
-## 📬 Let's Connect  
-- **LinkedIn:** [linkedin.com/in/shubhanshut31](https://linkedin.com/in/shubhanshut31)  
+[![shubhanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhanshut31&show_icons=true&theme=radical&hide_border=true)](https://github.com/your-github-username)
 
-💡 _"Building apps for today, innovating for tomorrow."_  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanshut31&layout=compact&theme=radical&hide_border=true)](https://github.com/shubhanshut31)
+
+---
+
+## 📂 Projects
+
+### [Weather-Dashboard](https://github.com/shubhanshut31/weather-dashboard)
+- Full-stack web application
+- Features: CRUD, Authentication, REST APIs
+- Tech: React, Node.js, MongoDB, Tailwind CSS  
+
+### [Task-Manager-App](https://github.com/shubhanshut31/task-manager-app-master)
+- Interactive Dashboard / Web App
+- Features: Real-time updates, responsive UI
+- Tech: Next.js, Express, MongoDB  
+
+### [Prime react datatable demo](https://github.com/shubhanshut31/Prime-React-Data-Table-Demo)
+- Secure Password Vault App
+- Features: Password generator, encryption, CRUD
+- Tech: Next.js, Node.js, MongoDB, Tailwind CSS  
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhanshut31)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shubhanshut3100)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)]([https://shubhanshuportfolio.com](https://shubhanshuportfolio.vercel.app/))  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhant31@gmail.com)
+
+---
+
+## ⚡ Fun Fact
+_"I love coding almost as much as I love coffee ☕"_  
+
 
 ## 🚀 Features
 - 🔐 Secure authentication with JWT
