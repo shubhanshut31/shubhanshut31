@@ -1,12 +1,31 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/shubhanshut31/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/_shubhanshu_0001/?next=%2F">
+    <img src="https://img.shields.io/badge/Instagram-brown?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://twitter.com/shubhanshut3100">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<div align="center">
+<p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=shubhanshut31&color=blueviolet" /></p> 
+</div>
+<br>
+<h5 align="center">
+  Hello 😊
+</h5>
 <br>
 <p align="center">
   <img src="https://media.giphy.com/media/WKdWA04KRn58A/giphy.gif">
 </p>
 <br>
-<div align="center">
-<p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=shubhanshut31&color=blueviolet" /></p> 
-</div>
 # Hi there, I'm Shubhanshu Tiwari 👋   
 <img width="300" height="180" alt="image" src="https://github.com/user-attachments/assets/fa83dba5-e8b5-4408-9750-903197cb5397" />
 
