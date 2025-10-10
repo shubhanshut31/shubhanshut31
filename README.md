@@ -23,12 +23,12 @@
 </h5>
 <br>
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2lxomthW6rkoxz5ruVezhA4P4scLqkKxkAnWGKnOeONQkqgx-oJfYdLg&s">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2lxomthW6rkoxz5ruVezhA4P4scLqkKxkAnWGKnOeONQkqgx-oJfYdLg&s" width="500" height="300">
 </div>
 <hr>
 <br>
 # Hi there, I'm Shubhanshu Tiwari 👋   
-<img  width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/fa83dba5-e8b5-4408-9750-903197cb5397"  />
+<img  width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/fa83dba5-e8b5-4408-9750-903197cb5397"  />
 
 🚀 **Web Developer** | 💻 **Full Stack Developer** | 🌟 **Aspiring AI & Machine Learning**  
 
